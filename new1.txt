@@ -5,3 +5,5 @@ yeni branch için deneme
 commit etmeden switch yapabiliyor muyuz denemesi.
 
 yeni yazılar var burada.
+
+gitkraken'e eklemek için
